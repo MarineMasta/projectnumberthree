@@ -13,7 +13,7 @@ app.use('/api/posts', postRoutes);
 
 const CONNECTION_URL =
   process.env.CONNECTION_URL ||
-  'mongodb+srv://Tarkesh_Kandregula:dE60mzmdCUVyki9x@cluster0.s0vwl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+  'mongodb+srv://dbUser:dbPassword@cluster0.irmfm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 const PORT = process.env.PORT || 3000;
 mongoose
