@@ -1,0 +1,56 @@
+[
+  {
+    "gameID": 1,
+    "title": "Kingdoms of Heckfire",
+    "subtitle": "Nova",
+    "image": "https://media.pocketgamer.com/FCKEditorFiles/KoH_Ad_ArmyCastle_NoText.png",
+    "color": "#203f52",
+    "highestScore": 2090,
+    "timesPlayed": 9
+  },
+  {
+    "gameID": 2,
+    "title": "Fortnite",
+    "subtitle": "Marine98",
+    "image": "https://progameguides.com/wp-content/uploads/2019/10/fortnite-outfit-scratch.jpg",
+    "color": "#4d137f",
+    "highestScore": 84933,
+    "timesPlayed": 233
+  },
+  {
+    "gameID": 3,
+    "title": "Overwatch",
+    "subtitle": "Davidson",
+    "image": "https://images5.alphacoders.com/690/thumb-1920-690653.png",
+    "color": "#ff9900",
+    "highestScore": 1201,
+    "timesPlayed": 129
+  },
+  {
+    "gameID": 4,
+    "title": "PubG",
+    "subtitle": "HarlCar?",
+    "image": "https://www.itp.net/public/styles/full_img_sml/public/images/2019/05/27/44485-pubg_base1.jpg?itok=EF911Xan",
+    "color": "#34241e",
+    "highestScore": 947923,
+    "timesPlayed": 2102
+  },
+  {
+    "gameID": 5,
+    "title": "Valorant",
+    "subtitle": "Gaming123",
+    "image": "https://images.indianexpress.com/2021/06/Valorant-Mobile.jpg",
+    "color": "#34241e",
+    "timesPlayed": "7",
+    "highestScore": "7908"
+  },
+  {
+    "gameID": 6,
+    "title": "MineCraft",
+    "subtitle": "MinecraftUSER",
+    "image": "https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png",
+    "color": "#34241e",
+    "timesPlayed": "453",
+    "highestScore": "5645"
+  }
+]
